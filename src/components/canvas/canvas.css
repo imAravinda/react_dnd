@@ -1,0 +1,36 @@
+.container{
+    width: 100%;
+    height: auto;
+  }
+  
+  .buttonSection{
+    width: 100%;
+    height: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .btn{
+    width: 10rem;
+    height: 2rem;
+    border-radius: 50rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem;
+    background-color: #7AA2E3;
+    color: #fff;
+    border: none;
+  }
+  .btn:hover{
+    cursor: pointer;
+  }
+  .btn:active{
+    background-color: #7AA2E3ad;
+  }
+  .canvas-svg{
+    display: flex;
+    position: absolute;
+    color: aqua;
+  }

@@ -1,0 +1,19 @@
+.addEditbtn{
+    width: 5rem;
+    height: 2rem;
+    border-radius: 20rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem;
+    background-color: #0079FF;
+    color: #fff;
+    border: none;
+  }
+  
+  .addEditbtn:hover{
+    cursor: pointer;
+  }
+  .addEditbtn:active{
+    background-color: #0079FFad;
+  }
